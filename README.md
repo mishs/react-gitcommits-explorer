@@ -1,6 +1,8 @@
 # GitHub Commits Explorer
 
-React assessment project for browsing repository commits, with shared state managed through Context and a reducer.
+**[View demo in your browser →](https://mish-git-commits-explorer.netlify.app/)**
+
+React project for browsing repository commits, with shared state managed through Context and a reducer.
 
 **Implementation:** [Repository exploration and shared UI state](https://github.com/mishs/react-gitcommits-explorer/blob/main/src/context/CommitsContext.js)  
 **Portfolio:** [Explore my selected engineering work](https://github.com/mishs/mishs/blob/main/PORTFOLIO.md)
