@@ -1,4 +1,10 @@
-# dado-react-code-audition
+# GitHub Commits Explorer
+
+React assessment project for browsing repository commits, with shared state managed through Context and a reducer.
+
+**Implementation:** [Repository exploration and shared UI state](https://github.com/mishs/react-gitcommits-explorer/blob/main/src/context/CommitsContext.js)  
+**Portfolio:** [Explore my selected engineering work](https://github.com/mishs/mishs/blob/main/PORTFOLIO.md)
+
 GitHub Commits Explorer web app allowing users to explore code repositories and view their commits.
 
 ## Table of Content
@@ -21,7 +27,7 @@ GitHub Commits Explorer web app allowing users to explore code repositories and 
 ## Available Scripts
 
 Git clone.\
-> ```https://github.com/mishs/dado-react-code-audition.git```
+> ```https://github.com/mishs/react-gitcommits-explorer.git```
 
 
 In the project directory, you can run:
